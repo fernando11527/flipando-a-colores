@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+/* styles.css */
+@media (max-width: 767.98px) {
+    .navbar-nav {
+      text-align: center;
+    }
+    .carousel-item img {
+      height: auto;
+    }
+    .col-md-4 {
+      margin-bottom: 20px;
+    }
+  }
