@@ -1,0 +1,31 @@
+.colorTopBar {
+    background-color: #CE4676;
+}
+
+.colorTopBar a {
+    color: white !important;
+}
+
+#servicios {
+    background-color: cyan;
+    padding: 20px 0;
+  }
+
+.distanciaEntreSecciones {
+    margin: 5% auto; 
+    padding: 2%;
+}
+
+.whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    right: 20px;
+    z-index: 100;
+    
+  }
+
+  .whatsapp-float img {
+    border-radius: 30%;
+  }
